@@ -1,0 +1,16 @@
+{
+  "name": "hashtag-time",
+  "version": "0.0.0",
+  "description": "Parse a hashtag into number of seconds: e.g. #4hrs30mins = 16200",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -r should"
+  },
+  "repository": "",
+  "author": "Dom Harrington <dom@harrington-mail.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.8.2",
+    "should": "~1.2.2"
+  }
+}
