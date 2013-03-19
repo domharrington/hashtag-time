@@ -15,3 +15,7 @@ To see more examples check the tests
     //   minutes: 30,
     //   duration: 16200
     // }
+
+## install
+
+    npm install hashtag-time
