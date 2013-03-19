@@ -1,6 +1,6 @@
 {
   "name": "hashtag-time",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse a hashtag into number of seconds: e.g. #4hrs30mins = 16200",
   "main": "index.js",
   "scripts": {
