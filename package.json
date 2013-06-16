@@ -1,12 +1,15 @@
 {
   "name": "hashtag-time",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse a hashtag into number of seconds: e.g. #4hrs30mins = 16200",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha -r should"
   },
-  "repository": "",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/domharrington/hashtag-time.git"
+  },
   "author": "Dom Harrington <dom@harrington-mail.com>",
   "license": "BSD",
   "devDependencies": {
